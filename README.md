@@ -12,3 +12,5 @@ Solution for Algorithm section on LeetCode
 5) Single Number II (Algorithm 137) https://leetcode.com/problems/single-number-ii/
 
 6) Reverse Integer (Algorithm 7) https://leetcode.com/problems/reverse-integer/
+
+7) Remove Elements (RunTime 4ms (3.83%)) https://leetcode.com/problems/remove-element/
