@@ -14,3 +14,5 @@ Solution for Algorithm section on LeetCode
 6) Reverse Integer (Algorithm 7) https://leetcode.com/problems/reverse-integer/
 
 7) Remove Elements (RunTime 4ms (3.83%)) https://leetcode.com/problems/remove-element/
+
+8) Nim Game (RunTime 0ms (0.78%)) https://leetcode.com/problems/nim-game/
