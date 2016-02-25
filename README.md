@@ -18,3 +18,5 @@ Solution for Algorithm section on LeetCode
 8) Nim Game (RunTime 0ms (0.78%)) https://leetcode.com/problems/nim-game/
 
 9) Increasing Triplet Subsequence (RunTime 8ms) https://leetcode.com/problems/increasing-triplet-subsequence/
+
+10) Ugly Number (RunTime 8ms (5.57%)) https://leetcode.com/problems/ugly-number/
