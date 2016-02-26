@@ -22,3 +22,5 @@ Solution for Algorithm section on LeetCode
 10) Ugly Number (RunTime 8ms (5.57%)) https://leetcode.com/problems/ugly-number/
 
 11) Valid Anagram (RunTime 84ms (12.16%)) https://leetcode.com/problems/valid-anagram/
+
+12) Majority Element (RunTime 40ms (14.79%)) https://leetcode.com/problems/majority-element/
