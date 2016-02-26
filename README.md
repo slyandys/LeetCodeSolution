@@ -20,3 +20,5 @@ Solution for Algorithm section on LeetCode
 9) Increasing Triplet Subsequence (RunTime 8ms) https://leetcode.com/problems/increasing-triplet-subsequence/
 
 10) Ugly Number (RunTime 8ms (5.57%)) https://leetcode.com/problems/ugly-number/
+
+11) Valid Anagram (RunTime 84ms (12.16%)) https://leetcode.com/problems/valid-anagram/
