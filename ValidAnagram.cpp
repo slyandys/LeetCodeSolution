@@ -7,11 +7,10 @@ public:
         std::sort(s.begin(), s.end());
         std::sort(t.begin(), t.end());
         
-        for (int i = 0; s[i] != '\0' && t[i] != '\0'; i++) {
-            if (s[i] != t[i]) {
-                return false;
-            }
+        if (s == t) {
+            return true;
+        } else {
+            return false;
         }
-        return true;
     }
 };
