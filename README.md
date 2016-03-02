@@ -26,3 +26,7 @@ Solution for Algorithm section on LeetCode
 12) Majority Element (RunTime 40ms (14.79%)) https://leetcode.com/problems/majority-element/
 
 13) Delete Node in a Linked List (RunTime 16ms (5.77%)) https://leetcode.com/problems/delete-node-in-a-linked-list/
+
+14) Contains Duplicate (RunTime 40ms (73.46%)) https://leetcode.com/problems/contains-duplicate/
+
+15) Missing Number (RunTime 68ms (4.54%)) https://leetcode.com/problems/missing-number/
