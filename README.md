@@ -24,3 +24,5 @@ Solution for Algorithm section on LeetCode
 11) Valid Anagram (RunTime 76ms (21.35%)) https://leetcode.com/problems/valid-anagram/
 
 12) Majority Element (RunTime 40ms (14.79%)) https://leetcode.com/problems/majority-element/
+
+13) Delete Node in a Linked List (RunTime 16ms (5.77%)) https://leetcode.com/problems/delete-node-in-a-linked-list/
