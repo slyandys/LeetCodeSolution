@@ -30,3 +30,5 @@ Solution for Algorithm section on LeetCode
 14) Contains Duplicate (RunTime 40ms (73.46%)) https://leetcode.com/problems/contains-duplicate/
 
 15) Missing Number (RunTime 68ms (4.54%)) https://leetcode.com/problems/missing-number/
+
+16) Excel Sheet Column Number (RunTime 8ms (33.21%)) https://leetcode.com/problems/excel-sheet-column-number/
