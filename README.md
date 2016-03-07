@@ -32,3 +32,5 @@ Solution for Algorithm section on LeetCode
 15) Missing Number (RunTime 68ms (4.54%)) https://leetcode.com/problems/missing-number/
 
 16) Excel Sheet Column Number (RunTime 8ms (33.21%)) https://leetcode.com/problems/excel-sheet-column-number/
+
+17) Add Digits (RunTime 12ms (4.50%)) https://leetcode.com/problems/add-digits/
