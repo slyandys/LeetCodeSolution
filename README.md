@@ -34,3 +34,5 @@ Solution for Algorithm section on LeetCode
 16) Excel Sheet Column Number (RunTime 8ms (33.21%)) https://leetcode.com/problems/excel-sheet-column-number/
 
 17) Add Digits (RunTime 12ms (4.50%)) https://leetcode.com/problems/add-digits/
+
+18) Remove Duplicates from Sorted List (RunTime 16ms (8.21%)) https://leetcode.com/problems/remove-duplicates-from-sorted-list/
