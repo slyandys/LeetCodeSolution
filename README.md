@@ -36,3 +36,7 @@ Solution for Algorithm section on LeetCode
 17) Add Digits (RunTime 12ms (4.50%)) https://leetcode.com/problems/add-digits/
 
 18) Remove Duplicates from Sorted List (RunTime 16ms (8.21%)) https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+
+19) Power of Two (RunTime 8ms (6.24%)) https://leetcode.com/problems/power-of-two/
+
+20) Reverse Bits (RunTime 4ms (32.10%)) https://leetcode.com/problems/reverse-bits/
