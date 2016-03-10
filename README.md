@@ -40,3 +40,9 @@ Solution for Algorithm section on LeetCode
 19) Power of Two (RunTime 8ms (6.24%)) https://leetcode.com/problems/power-of-two/
 
 20) Reverse Bits (RunTime 4ms (32.10%)) https://leetcode.com/problems/reverse-bits/
+
+21) Single Number III (RunTime 28ms (15.97%)) https://leetcode.com/problems/single-number-iii/
+
+22) Palindrome Number (RunTime 104ms (11.27%)) https://leetcode.com/problems/palindrome-number/
+
+23) Two Sum (RunTime 233ms (20.62%)) https://leetcode.com/problems/two-sum/
