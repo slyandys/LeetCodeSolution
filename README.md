@@ -46,3 +46,7 @@ Solution for Algorithm section on LeetCode
 22) Palindrome Number (RunTime 104ms (11.27%)) https://leetcode.com/problems/palindrome-number/
 
 23) Two Sum (RunTime 233ms (20.62%)) https://leetcode.com/problems/two-sum/
+
+24) Add Binary (RunTime 4ms (21.14%)) https://leetcode.com/problems/add-binary/
+
+25) Product of Array Except Self (RunTime 60ms (45.91%)) https://leetcode.com/problems/product-of-array-except-self/
