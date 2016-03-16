@@ -50,3 +50,5 @@ Solution for Algorithm section on LeetCode
 24) Add Binary (RunTime 4ms (21.14%)) https://leetcode.com/problems/add-binary/
 
 25) Product of Array Except Self (RunTime 60ms (45.91%)) https://leetcode.com/problems/product-of-array-except-self/
+
+26) Pascal's Triangle (RunTime 0ms (14.14%)) https://leetcode.com/problems/pascals-triangle/
