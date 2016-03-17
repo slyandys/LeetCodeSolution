@@ -52,3 +52,7 @@ Solution for Algorithm section on LeetCode
 25) Product of Array Except Self (RunTime 60ms (45.91%)) https://leetcode.com/problems/product-of-array-except-self/
 
 26) Pascal's Triangle (RunTime 0ms (14.14%)) https://leetcode.com/problems/pascals-triangle/
+
+27) Merge Two Sorted Lists (RunTime 12ms (5.30%)) https://leetcode.com/problems/merge-two-sorted-lists/
+
+28) Remove Duplicates from Sorted Array (RunTime 33ms (34.95%)) https://leetcode.com/problems/remove-duplicates-from-sorted-array/
