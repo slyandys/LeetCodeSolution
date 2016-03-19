@@ -56,3 +56,5 @@ Solution for Algorithm section on LeetCode
 27) Merge Two Sorted Lists (RunTime 12ms (5.30%)) https://leetcode.com/problems/merge-two-sorted-lists/
 
 28) Remove Duplicates from Sorted Array (RunTime 33ms (34.95%)) https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+
+29) Happy Number (RunTime 0ms (97.40%)) https://leetcode.com/problems/happy-number/
