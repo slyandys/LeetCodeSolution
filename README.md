@@ -60,3 +60,5 @@ Solution for Algorithm section on LeetCode
 29) Happy Number (RunTime 0ms (97.40%)) https://leetcode.com/problems/happy-number/
 
 30) Plus One (RunTime 4ms (3.40%)) https://leetcode.com/problems/plus-one/
+
+31) Counting Bits (RunTime 460ms (No enough accepted submissions)) https://leetcode.com/problems/counting-bits/
