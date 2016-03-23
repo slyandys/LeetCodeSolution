@@ -64,3 +64,5 @@ Solution for Algorithm section on LeetCode
 31) Counting Bits (RunTime 460ms (No enough accepted submissions)) https://leetcode.com/problems/counting-bits/
 
 32) Reverse Linked List (RunTime 8ms (13.13%)) https://leetcode.com/problems/reverse-linked-list/
+
+33) Factorial Trailing Zeroes (RunTime 8ms (1.16%)) https://leetcode.com/problems/factorial-trailing-zeroes/
