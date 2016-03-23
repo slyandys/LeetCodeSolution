@@ -62,3 +62,5 @@ Solution for Algorithm section on LeetCode
 30) Plus One (RunTime 4ms (3.40%)) https://leetcode.com/problems/plus-one/
 
 31) Counting Bits (RunTime 460ms (No enough accepted submissions)) https://leetcode.com/problems/counting-bits/
+
+32) Reverse Linked List (RunTime 8ms (13.13%)) https://leetcode.com/problems/reverse-linked-list/
