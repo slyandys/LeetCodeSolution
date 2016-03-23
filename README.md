@@ -66,3 +66,5 @@ Solution for Algorithm section on LeetCode
 32) Reverse Linked List (RunTime 8ms (13.13%)) https://leetcode.com/problems/reverse-linked-list/
 
 33) Factorial Trailing Zeroes (RunTime 8ms (1.16%)) https://leetcode.com/problems/factorial-trailing-zeroes/
+
+34) Swap Nodes in Pairs (RunTime 4ms (1.83%)) https://leetcode.com/problems/swap-nodes-in-pairs/
