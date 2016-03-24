@@ -68,3 +68,5 @@ Solution for Algorithm section on LeetCode
 33) Factorial Trailing Zeroes (RunTime 8ms (1.16%)) https://leetcode.com/problems/factorial-trailing-zeroes/
 
 34) Swap Nodes in Pairs (RunTime 4ms (1.83%)) https://leetcode.com/problems/swap-nodes-in-pairs/
+
+35) Pascal's Triangle II (RunTime 0ms (9.32%)) https://leetcode.com/problems/pascals-triangle-ii/
