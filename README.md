@@ -70,3 +70,5 @@ Solution for Algorithm section on LeetCode
 34) Swap Nodes in Pairs (RunTime 4ms (1.83%)) https://leetcode.com/problems/swap-nodes-in-pairs/
 
 35) Pascal's Triangle II (RunTime 0ms (9.32%)) https://leetcode.com/problems/pascals-triangle-ii/
+
+36) Invert Binary Tree (RunTime 0ms (7.97%)) https://leetcode.com/problems/invert-binary-tree/
