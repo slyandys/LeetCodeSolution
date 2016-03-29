@@ -72,3 +72,5 @@ Solution for Algorithm section on LeetCode
 35) Pascal's Triangle II (RunTime 0ms (9.32%)) https://leetcode.com/problems/pascals-triangle-ii/
 
 36) Invert Binary Tree (RunTime 0ms (7.97%)) https://leetcode.com/problems/invert-binary-tree/
+
+37) Same Tree (RunTime 0ms (4.48%)) https://leetcode.com/problems/same-tree/
