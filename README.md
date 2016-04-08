@@ -78,3 +78,5 @@ Solution for Algorithm section on LeetCode
 38) Binary Tree Preorder Traversal (RunTime 0ms (10.97%)) https://leetcode.com/problems/binary-tree-preorder-traversal/
 
 39) Rotate Array (RunTime 24ms (20.55%)) https://leetcode.com/problems/rotate-array/
+
+40) Implement Queue using Stacks (RunTime 0ms (2.29%)) https://leetcode.com/problems/implement-queue-using-stacks/
