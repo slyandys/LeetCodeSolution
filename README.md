@@ -80,3 +80,7 @@ Solution for Algorithm section on LeetCode
 39) Rotate Array (RunTime 24ms (20.55%)) https://leetcode.com/problems/rotate-array/
 
 40) Implement Queue using Stacks (RunTime 0ms (2.29%)) https://leetcode.com/problems/implement-queue-using-stacks/
+
+41) Implement Stack using Queues (RunTime 0ms (1.64%)) https://leetcode.com/problems/implement-stack-using-queues/
+
+42) Maximum Depth of Binary Tree (RunTime 8ms (9.13%)) https://leetcode.com/problems/maximum-depth-of-binary-tree/
