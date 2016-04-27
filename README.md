@@ -90,3 +90,5 @@ Solution for Algorithm section on LeetCode
 44) Reverse Vowels of a String (RunTime 20ms (No enough accepted submissions)) https://leetcode.com/problems/reverse-vowels-of-a-string/
 
 45) Remove Nth Node From End of List (RunTime 4ms (21.25%)) https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+
+46) Length of Last Word (RunTime 4ms (1.40%)) https://leetcode.com/problems/length-of-last-word/
