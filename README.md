@@ -92,3 +92,5 @@ Solution for Algorithm section on LeetCode
 45) Remove Nth Node From End of List (RunTime 4ms (21.25%)) https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 
 46) Length of Last Word (RunTime 4ms (1.40%)) https://leetcode.com/problems/length-of-last-word/
+
+47) Valid Parentheses (RunTime 0ms (2.89%)) https://leetcode.com/problems/valid-parentheses/
