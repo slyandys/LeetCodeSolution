@@ -98,3 +98,5 @@ Solution for Algorithm section on LeetCode
 48) Remove Linked List Elements (RunTime 32ms (54.36%)) https://leetcode.com/problems/remove-linked-list-elements/
 
 49) Linked List Cycle (RunTime 12ms (13.53%)) https://leetcode.com/problems/linked-list-cycle/
+
+50) Sqrt(x) (RunTime 44ms (7.34%)) https://leetcode.com/problems/sqrtx/
