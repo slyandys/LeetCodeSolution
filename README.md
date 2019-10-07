@@ -102,3 +102,5 @@ Solution for Algorithm section on LeetCode
 50) Sqrt(x) (RunTime 44ms (7.34%)) https://leetcode.com/problems/sqrtx/
 
 51) IntegerToRoman (RunTime 4ms (93.80%)) https://leetcode.com/problems/integer-to-roman/
+
+52) Add Two Numbers(RunTime 24ms (63.55%)) https://leetcode.com/problems/add-two-numbers/
